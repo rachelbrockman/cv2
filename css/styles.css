@@ -142,3 +142,7 @@ a:hover {
   height: 15%;
   width: 15%;
 }
+.hitcounter {
+  display: none;
+}
+  
